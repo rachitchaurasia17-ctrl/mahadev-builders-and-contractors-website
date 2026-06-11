@@ -11,7 +11,7 @@ const SYSTEM_PROMPT = `You are Property AI, the digital concierge for Mahadev Bu
 
 Firm facts:
 - Firm: Mahadev Builders and Contractors
-- Office: SCO 1, 2nd Floor, Sector 79, Sahibzada Ajit Singh Nagar, Punjab 140308
+- Office: Near Gurudwara Singh Shaheedan, Airport Road, Sohana, Mohali, Punjab 140308
 - Phone: +91-00000-00000
 - GMADA empanelled, RERA registered (PB-RERA)
 - Practice: Residential, Commercial, Land/Plots, Investment Advisory, NRI Services, Title & Due Diligence
